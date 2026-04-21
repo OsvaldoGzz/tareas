@@ -32,7 +32,7 @@ public class Producto {
         if (nombre != null && !nombre.trim().isEmpty()) {
             this.nombre = nombre;
         } else {
-            System.out.println("Error: el nombre no puede estar vacio.");
+            System.out.println("Error: el nombre no puede estar vacio debe tener algo.");
         }
     }
 
