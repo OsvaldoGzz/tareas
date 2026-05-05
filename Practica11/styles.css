@@ -1,0 +1,22 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-background-color: #f2f2f2;
+}
+
+.table-view {
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-cursor: hand;
+}
+
+.boton-principal {
+    -fx-background-color: #3b82f6;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.campo-validado {
+    -fx-padding: 6;
+}
