@@ -1,0 +1,16 @@
+REPORTE GYMPOS
+-------------------------
+
+Clientes registrados: 10
+
+C001 | Osvaldo | 8111111111
+C002 | Luis | 8222222222
+C003 | Ana | 8333333333
+
+Inventario:
+E001 | Mancuernas | stock: 10
+E002 | Caminadora | stock: 2
+
+Membresias activas: 3
+
+Reporte generado correctamente.
